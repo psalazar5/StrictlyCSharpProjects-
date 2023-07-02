@@ -5,7 +5,7 @@
     string input = Console.ReadLine();
 
     // Optional exclusions 
-    string exclusions = input.Replace("and", "");
+    string exclusions = input.Replace("and", "").Replace("of", "");
     string[] wordArr = exclusions.Split(' '); //create an array of words from the sentence then split splits up the whole string up by whatever character we specify 
     Console.WriteLine(wordArr.Length);
 
