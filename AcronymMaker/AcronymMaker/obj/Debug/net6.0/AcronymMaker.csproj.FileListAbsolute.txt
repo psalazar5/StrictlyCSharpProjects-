@@ -1,0 +1,15 @@
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\AcronymMaker\AcronymMaker\bin\Debug\net6.0\AcronymMaker.exe
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\AcronymMaker\AcronymMaker\bin\Debug\net6.0\AcronymMaker.deps.json
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\AcronymMaker\AcronymMaker\bin\Debug\net6.0\AcronymMaker.runtimeconfig.json
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\AcronymMaker\AcronymMaker\bin\Debug\net6.0\AcronymMaker.dll
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\AcronymMaker\AcronymMaker\bin\Debug\net6.0\AcronymMaker.pdb
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\AcronymMaker\AcronymMaker\obj\Debug\net6.0\AcronymMaker.csproj.AssemblyReference.cache
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\AcronymMaker\AcronymMaker\obj\Debug\net6.0\AcronymMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\AcronymMaker\AcronymMaker\obj\Debug\net6.0\AcronymMaker.AssemblyInfoInputs.cache
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\AcronymMaker\AcronymMaker\obj\Debug\net6.0\AcronymMaker.AssemblyInfo.cs
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\AcronymMaker\AcronymMaker\obj\Debug\net6.0\AcronymMaker.csproj.CoreCompileInputs.cache
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\AcronymMaker\AcronymMaker\obj\Debug\net6.0\AcronymMaker.dll
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\AcronymMaker\AcronymMaker\obj\Debug\net6.0\refint\AcronymMaker.dll
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\AcronymMaker\AcronymMaker\obj\Debug\net6.0\AcronymMaker.pdb
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\AcronymMaker\AcronymMaker\obj\Debug\net6.0\AcronymMaker.genruntimeconfig.cache
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\AcronymMaker\AcronymMaker\obj\Debug\net6.0\ref\AcronymMaker.dll
