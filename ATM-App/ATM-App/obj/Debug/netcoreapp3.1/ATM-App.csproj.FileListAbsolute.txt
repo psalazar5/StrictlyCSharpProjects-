@@ -1,0 +1,14 @@
+C:\Users\psala\OneDrive\Desktop\ATM-CSharp\ATM-App\ATM-App\bin\Debug\netcoreapp3.1\ATM-App.exe
+C:\Users\psala\OneDrive\Desktop\ATM-CSharp\ATM-App\ATM-App\bin\Debug\netcoreapp3.1\ATM-App.deps.json
+C:\Users\psala\OneDrive\Desktop\ATM-CSharp\ATM-App\ATM-App\bin\Debug\netcoreapp3.1\ATM-App.runtimeconfig.json
+C:\Users\psala\OneDrive\Desktop\ATM-CSharp\ATM-App\ATM-App\bin\Debug\netcoreapp3.1\ATM-App.runtimeconfig.dev.json
+C:\Users\psala\OneDrive\Desktop\ATM-CSharp\ATM-App\ATM-App\bin\Debug\netcoreapp3.1\ATM-App.dll
+C:\Users\psala\OneDrive\Desktop\ATM-CSharp\ATM-App\ATM-App\bin\Debug\netcoreapp3.1\ATM-App.pdb
+C:\Users\psala\OneDrive\Desktop\ATM-CSharp\ATM-App\ATM-App\obj\Debug\netcoreapp3.1\ATM-App.csproj.AssemblyReference.cache
+C:\Users\psala\OneDrive\Desktop\ATM-CSharp\ATM-App\ATM-App\obj\Debug\netcoreapp3.1\ATM-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psala\OneDrive\Desktop\ATM-CSharp\ATM-App\ATM-App\obj\Debug\netcoreapp3.1\ATM-App.AssemblyInfoInputs.cache
+C:\Users\psala\OneDrive\Desktop\ATM-CSharp\ATM-App\ATM-App\obj\Debug\netcoreapp3.1\ATM-App.AssemblyInfo.cs
+C:\Users\psala\OneDrive\Desktop\ATM-CSharp\ATM-App\ATM-App\obj\Debug\netcoreapp3.1\ATM-App.csproj.CoreCompileInputs.cache
+C:\Users\psala\OneDrive\Desktop\ATM-CSharp\ATM-App\ATM-App\obj\Debug\netcoreapp3.1\ATM-App.dll
+C:\Users\psala\OneDrive\Desktop\ATM-CSharp\ATM-App\ATM-App\obj\Debug\netcoreapp3.1\ATM-App.pdb
+C:\Users\psala\OneDrive\Desktop\ATM-CSharp\ATM-App\ATM-App\obj\Debug\netcoreapp3.1\ATM-App.genruntimeconfig.cache
