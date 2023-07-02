@@ -20,5 +20,9 @@ Steps Taken:
   <li> Made smoother transitions and fixing bugs</li>
 </ol>
 
+## Acronym Generator Console App Focus : 
+Using simple techniques to better understand strings. This acronym generator can make you an acronym, give it a try! 
+
+
 ## Downloading the apps:
 In order to download this app I managed to use this in Visual Studio 2022
