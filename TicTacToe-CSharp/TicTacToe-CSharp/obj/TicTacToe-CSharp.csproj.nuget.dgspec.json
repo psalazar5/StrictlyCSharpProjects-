@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\psala\\OneDrive\\Desktop\\TicTacToeCSharp\\TicTacToe-CSharp\\TicTacToe-CSharp\\TicTacToe-CSharp.csproj": {}
+    "C:\\Users\\psala\\Desktop\\StrictlyCSharpProjects-\\TicTacToe-CSharp\\TicTacToe-CSharp\\TicTacToe-CSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\psala\\OneDrive\\Desktop\\TicTacToeCSharp\\TicTacToe-CSharp\\TicTacToe-CSharp\\TicTacToe-CSharp.csproj": {
+    "C:\\Users\\psala\\Desktop\\StrictlyCSharpProjects-\\TicTacToe-CSharp\\TicTacToe-CSharp\\TicTacToe-CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\psala\\OneDrive\\Desktop\\TicTacToeCSharp\\TicTacToe-CSharp\\TicTacToe-CSharp\\TicTacToe-CSharp.csproj",
+        "projectUniqueName": "C:\\Users\\psala\\Desktop\\StrictlyCSharpProjects-\\TicTacToe-CSharp\\TicTacToe-CSharp\\TicTacToe-CSharp.csproj",
         "projectName": "TicTacToe-CSharp",
-        "projectPath": "C:\\Users\\psala\\OneDrive\\Desktop\\TicTacToeCSharp\\TicTacToe-CSharp\\TicTacToe-CSharp\\TicTacToe-CSharp.csproj",
+        "projectPath": "C:\\Users\\psala\\Desktop\\StrictlyCSharpProjects-\\TicTacToe-CSharp\\TicTacToe-CSharp\\TicTacToe-CSharp.csproj",
         "packagesPath": "C:\\Users\\psala\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\psala\\OneDrive\\Desktop\\TicTacToeCSharp\\TicTacToe-CSharp\\TicTacToe-CSharp\\obj\\",
+        "outputPath": "C:\\Users\\psala\\Desktop\\StrictlyCSharpProjects-\\TicTacToe-CSharp\\TicTacToe-CSharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
