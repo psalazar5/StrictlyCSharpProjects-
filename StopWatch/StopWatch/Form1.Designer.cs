@@ -29,22 +29,22 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            this.label1 = new System.Windows.Forms.Label();
+            this.watchLabel = new System.Windows.Forms.Label();
             this.startButton = new System.Windows.Forms.Button();
             this.stopButton = new System.Windows.Forms.Button();
             this.resetButton = new System.Windows.Forms.Button();
             this.formTimer = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
-            // label1
+            // watchLabel
             // 
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 90F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(0, 124);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(1348, 230);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "00:00.00";
-            this.label1.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.watchLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 90F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.watchLabel.Location = new System.Drawing.Point(0, 124);
+            this.watchLabel.Name = "watchLabel";
+            this.watchLabel.Size = new System.Drawing.Size(1348, 230);
+            this.watchLabel.TabIndex = 0;
+            this.watchLabel.Text = "00:00.00";
+            this.watchLabel.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // startButton
             // 
@@ -96,7 +96,7 @@
             this.Controls.Add(this.resetButton);
             this.Controls.Add(this.stopButton);
             this.Controls.Add(this.startButton);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.watchLabel);
             this.Name = "StopWatch";
             this.Text = "Stop Watch ";
             this.ResumeLayout(false);
@@ -105,7 +105,7 @@
 
         #endregion
 
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label watchLabel;
         private System.Windows.Forms.Button startButton;
         private System.Windows.Forms.Button stopButton;
         private System.Windows.Forms.Button resetButton;

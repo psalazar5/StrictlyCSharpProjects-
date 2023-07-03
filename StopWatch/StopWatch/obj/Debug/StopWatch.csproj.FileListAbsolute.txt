@@ -1,0 +1,11 @@
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\StopWatch\StopWatch\bin\Debug\StopWatch.exe.config
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\StopWatch\StopWatch\bin\Debug\StopWatch.exe
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\StopWatch\StopWatch\bin\Debug\StopWatch.pdb
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.AssemblyReference.cache
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.SuggestedBindingRedirects.cache
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\StopWatch\StopWatch\obj\Debug\StopWatch.StopWatch.resources
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\StopWatch\StopWatch\obj\Debug\StopWatch.Properties.Resources.resources
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.GenerateResource.cache
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\StopWatch\StopWatch\obj\Debug\StopWatch.exe
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\StopWatch\StopWatch\obj\Debug\StopWatch.pdb
