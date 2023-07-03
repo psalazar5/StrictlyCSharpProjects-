@@ -20,9 +20,11 @@ Steps Taken:
   <li> Made smoother transitions and fixing bugs</li>
 </ol>
 
-## Acronym Generator Console App Focus : 
+## Acronym Generator Console App Focus: 
 Using simple techniques to better understand strings. This acronym generator can make you an acronym, give it a try! 
 
+## Random Password Generator Focus: 
+Everyone needs great and secure passwords so we don't get hacked right? Well to address this I completed an app that generates a randomized password from lengths 5 to 20 characters long.
 
-## Downloading the apps:
+## Downloading the apps to your machine:
 In order to download this app I managed to use this in Visual Studio 2022
