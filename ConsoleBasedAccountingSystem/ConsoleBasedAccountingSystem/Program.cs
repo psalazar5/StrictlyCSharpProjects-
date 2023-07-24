@@ -227,7 +227,7 @@ namespace ConsoleBasedAccountingSystem
             if(premiumAccount != null)
             {
                 decimal premiumInterest = premiumAccount.calculateInterest(3);
-                Console.WriteLine($"Checking Account interest: ${premiumInterest: F2}");
+                Console.WriteLine($"Checking Account interest: ${premiumInterest:F2}");
             }
         }
 

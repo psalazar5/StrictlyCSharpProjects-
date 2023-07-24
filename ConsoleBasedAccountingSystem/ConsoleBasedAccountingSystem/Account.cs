@@ -20,7 +20,7 @@ namespace ConsoleBasedAccountingSystem
             Balance += amount; 
         }
 
-        public virtual decimal calculateInterest(decimal interestRate)
+        public virtual decimal calculateInterest(decimal interestRate) //6. You should be able to calculate interest based on the current balance of the checking account and an input.
         {
             return Balance * (interestRate / 100); 
         }
@@ -36,7 +36,6 @@ namespace ConsoleBasedAccountingSystem
             {
                 sourceAccount.Balance -= amount;
                 targetAccount.Balance += amount;
-                Console.WriteLine($"Successfully transferred ${amount:F2} from account {sourceAccount.AccountID} to Account {targetAccount.AccountID}.");
             }
             else { Console.WriteLine("Insufficient funds for the transfer."); }
         }
