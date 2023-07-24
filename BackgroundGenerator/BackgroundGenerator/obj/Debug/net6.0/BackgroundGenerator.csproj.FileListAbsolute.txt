@@ -1,0 +1,15 @@
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\BackgroundGenerator\BackgroundGenerator\bin\Debug\net6.0\BackgroundGenerator.exe
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\BackgroundGenerator\BackgroundGenerator\bin\Debug\net6.0\BackgroundGenerator.deps.json
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\BackgroundGenerator\BackgroundGenerator\bin\Debug\net6.0\BackgroundGenerator.runtimeconfig.json
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\BackgroundGenerator\BackgroundGenerator\bin\Debug\net6.0\BackgroundGenerator.dll
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\BackgroundGenerator\BackgroundGenerator\bin\Debug\net6.0\BackgroundGenerator.pdb
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\BackgroundGenerator\BackgroundGenerator\obj\Debug\net6.0\BackgroundGenerator.csproj.AssemblyReference.cache
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\BackgroundGenerator\BackgroundGenerator\obj\Debug\net6.0\BackgroundGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\BackgroundGenerator\BackgroundGenerator\obj\Debug\net6.0\BackgroundGenerator.AssemblyInfoInputs.cache
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\BackgroundGenerator\BackgroundGenerator\obj\Debug\net6.0\BackgroundGenerator.AssemblyInfo.cs
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\BackgroundGenerator\BackgroundGenerator\obj\Debug\net6.0\BackgroundGenerator.csproj.CoreCompileInputs.cache
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\BackgroundGenerator\BackgroundGenerator\obj\Debug\net6.0\BackgroundGenerator.dll
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\BackgroundGenerator\BackgroundGenerator\obj\Debug\net6.0\refint\BackgroundGenerator.dll
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\BackgroundGenerator\BackgroundGenerator\obj\Debug\net6.0\BackgroundGenerator.pdb
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\BackgroundGenerator\BackgroundGenerator\obj\Debug\net6.0\BackgroundGenerator.genruntimeconfig.cache
+C:\Users\psala\Desktop\StrictlyCSharpProjects-\BackgroundGenerator\BackgroundGenerator\obj\Debug\net6.0\ref\BackgroundGenerator.dll

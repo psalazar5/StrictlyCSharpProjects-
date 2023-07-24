@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BackgroundGenerator/1.0.0": {
+        "runtime": {
+          "BackgroundGenerator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BackgroundGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
