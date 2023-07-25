@@ -4,9 +4,12 @@ namespace BackgroundGenerator
 {
      class backgroundChanger
      {//Constants used as parameters for the SystemParametersInfo function 
-        public const int SPI_SETDESKWALLPAPER = 20; // Used to set wallpaper
-        public const int SPIF_UPDATEINFILE = 1; //Indicates that the change should be written to the user profile 
-        public const int SPIF_SENDCHANGE = 2; // Broadcasts the WM_SETTINGCHANGE message after updating the uder profile.
+        public const int SPI_SETDESKWALLPAPER = 20; /* Used to set wallpaper
+                                                     * Note  When the SPI_SETDESKWALLPAPER flag is used, SystemParametersInfo returns TRUE unless there is an error (like when the specified file doesn't exist). */
+        public const int SPIF_UPDATEINFILE = 1; /*Indicates that the change should be written to the user profile 
+                                                 * Writes the new system-wide parameter setting to the user profile. */
+        public const int SPIF_SENDCHANGE = 2; // Broadcasts the WM_SETTINGCHANGE message after updating the user profile.
+                                               
         //importing dll
         [DllImport("user32.dll", CharSet = CharSet.Auto, SetLastError = true)] //string marshalling, getting ready for storage, SetLastError ; indicating whether the colleage sets the error.
         public static extern int SystemParametersInfo(int uAction, int uParam, string lpvParam, int fuWinIni); //using spi to modify certain parts about our user profile.
