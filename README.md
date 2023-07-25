@@ -1,4 +1,6 @@
-# StrictlyCSharpProjects- This repository showcases a collection of meticulously crafted C# applications, ready for thorough review. Each application demonstrates my proficiency in C# programming and showcases my ability to create robust and functional software solutions. I invite employers to explore these projects as a testament to my skills and dedication as a C# developer. 
+# StrictlyCSharpProjects
+
+This repository showcases a collection of meticulously crafted C# applications, ready for thorough review. Each application demonstrates my proficiency in C# programming and showcases my ability to create robust and functional software solutions. I invite employers to explore these projects as a testament to my skills and dedication as a C# developer. 
 
 ## ATM-CSharp Focus: 
 ATMs are simple and easy to use banking terminals that we use in our daily lives. In this project I was able to define problems that go along inside an atm, traversing through the atm logics and managed to accomplish a functioning ATM console app
