@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CvttTCu9i9uCE8xTKtBl//knlKQhELe4lGIyYn9BIluUIXu3XAxn+a35kgE3KVxBkDESmElJGZix3vA9SEoGuw==",
+  "dgSpecHash": "Yo/BuNYbNnHEbH4EORpEudsj2OoIvN5SNB+K7wS8zlTqTyDjsvaWUXyZ4FbzdiJBQ92gLL6eR1a2qO5LH5Zi1A==",
   "success": true,
   "projectFilePath": "C:\\Users\\psala\\Desktop\\StrictlyCSharpProjects-\\ATM-App\\ATM-App\\ATM-App.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\psala\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

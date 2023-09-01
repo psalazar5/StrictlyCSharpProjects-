@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\psala\\Desktop\\StrictlyCSharpProjects-\\ConsoleBasedAccountingSystem\\ConsoleBasedAccountingSystem\\ConsoleBasedAccountingSystem.csproj",
+      "projectUniqueName": "C:\\Users\\psala\\Software\\StrictlyCSharpProjects-\\ConsoleBasedAccountingSystem\\ConsoleBasedAccountingSystem\\ConsoleBasedAccountingSystem.csproj",
       "projectName": "ConsoleBasedAccountingSystem",
-      "projectPath": "C:\\Users\\psala\\Desktop\\StrictlyCSharpProjects-\\ConsoleBasedAccountingSystem\\ConsoleBasedAccountingSystem\\ConsoleBasedAccountingSystem.csproj",
+      "projectPath": "C:\\Users\\psala\\Software\\StrictlyCSharpProjects-\\ConsoleBasedAccountingSystem\\ConsoleBasedAccountingSystem\\ConsoleBasedAccountingSystem.csproj",
       "packagesPath": "C:\\Users\\psala\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\psala\\Desktop\\StrictlyCSharpProjects-\\ConsoleBasedAccountingSystem\\ConsoleBasedAccountingSystem\\obj\\",
+      "outputPath": "C:\\Users\\psala\\Software\\StrictlyCSharpProjects-\\ConsoleBasedAccountingSystem\\ConsoleBasedAccountingSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

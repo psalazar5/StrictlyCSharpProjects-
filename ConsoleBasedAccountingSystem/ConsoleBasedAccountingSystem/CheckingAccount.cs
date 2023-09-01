@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ConsoleBasedAccountingSystem
 {
-     class CheckingAccount: Account
+     public class CheckingAccount: Account
     {
         public CheckingAccount(int accountID, decimal startingBalance): base(accountID, startingBalance) //3 & 4
         {

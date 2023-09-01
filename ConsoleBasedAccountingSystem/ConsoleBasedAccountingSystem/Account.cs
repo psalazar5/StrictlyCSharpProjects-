@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ConsoleBasedAccountingSystem
 { //2
-     class Account
+    public class Account
     {
         public int AccountID { get; set; }
         public decimal Balance { get; set; }

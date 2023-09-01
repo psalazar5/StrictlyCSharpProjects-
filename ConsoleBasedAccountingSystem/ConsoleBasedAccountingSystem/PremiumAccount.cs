@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ConsoleBasedAccountingSystem
 { //2 
-     class PremiumAccount: Account
+    public class PremiumAccount: Account
     {
         public PremiumAccount(int accountID, decimal startingBalance): base(accountID, startingBalance)
         {
