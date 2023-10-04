@@ -1,0 +1,15 @@
+C:\Users\psala\Software\StrictlyCSharpProjects-\RacingCalendar\RacingCalendar\bin\Debug\net6.0\RacingCalendar.exe
+C:\Users\psala\Software\StrictlyCSharpProjects-\RacingCalendar\RacingCalendar\bin\Debug\net6.0\RacingCalendar.deps.json
+C:\Users\psala\Software\StrictlyCSharpProjects-\RacingCalendar\RacingCalendar\bin\Debug\net6.0\RacingCalendar.runtimeconfig.json
+C:\Users\psala\Software\StrictlyCSharpProjects-\RacingCalendar\RacingCalendar\bin\Debug\net6.0\RacingCalendar.dll
+C:\Users\psala\Software\StrictlyCSharpProjects-\RacingCalendar\RacingCalendar\bin\Debug\net6.0\RacingCalendar.pdb
+C:\Users\psala\Software\StrictlyCSharpProjects-\RacingCalendar\RacingCalendar\obj\Debug\net6.0\RacingCalendar.csproj.AssemblyReference.cache
+C:\Users\psala\Software\StrictlyCSharpProjects-\RacingCalendar\RacingCalendar\obj\Debug\net6.0\RacingCalendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psala\Software\StrictlyCSharpProjects-\RacingCalendar\RacingCalendar\obj\Debug\net6.0\RacingCalendar.AssemblyInfoInputs.cache
+C:\Users\psala\Software\StrictlyCSharpProjects-\RacingCalendar\RacingCalendar\obj\Debug\net6.0\RacingCalendar.AssemblyInfo.cs
+C:\Users\psala\Software\StrictlyCSharpProjects-\RacingCalendar\RacingCalendar\obj\Debug\net6.0\RacingCalendar.csproj.CoreCompileInputs.cache
+C:\Users\psala\Software\StrictlyCSharpProjects-\RacingCalendar\RacingCalendar\obj\Debug\net6.0\RacingCalendar.dll
+C:\Users\psala\Software\StrictlyCSharpProjects-\RacingCalendar\RacingCalendar\obj\Debug\net6.0\refint\RacingCalendar.dll
+C:\Users\psala\Software\StrictlyCSharpProjects-\RacingCalendar\RacingCalendar\obj\Debug\net6.0\RacingCalendar.pdb
+C:\Users\psala\Software\StrictlyCSharpProjects-\RacingCalendar\RacingCalendar\obj\Debug\net6.0\RacingCalendar.genruntimeconfig.cache
+C:\Users\psala\Software\StrictlyCSharpProjects-\RacingCalendar\RacingCalendar\obj\Debug\net6.0\ref\RacingCalendar.dll
