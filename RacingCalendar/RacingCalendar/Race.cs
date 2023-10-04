@@ -11,7 +11,7 @@ namespace RacingCalendar
         public string Name { get; set; }
         public DateTime Date { get; set; }
         public string TrackName { get; set; }
-
+        public Driver driver { get; set; }
 
         //Collection to store drivers on waiting list (1)
         private Queue<Driver> waitingList; 
@@ -55,14 +55,6 @@ namespace RacingCalendar
         }
 
 
-        //override method to include racing info
-        //public override string ToString()
-        //{
-        //    string driversInfo = string.Join(", ", drivers.Select(driver => driver.Name));
-        //    return $"Race: {Name}, Date: {Date.ToShortDateString()}, Track: {TrackName}, Drivers: {driversInfo}";
-        //}
-
-
 
         public void DisplayDriverDetails()
         {
@@ -78,6 +70,15 @@ namespace RacingCalendar
                 raceNumber++;
             }
 
+        }
+
+
+
+        //override method to include racing info
+        public override string ToString()
+        {
+            //string driversInfo = string.Join(", ", drivers.Select(driver => driver.Name));
+            return $"Race: {Name}, Date: {Date.ToShortDateString()}, Track: {TrackName}, Drivers: {driver.Name}";
         }
     }
 }

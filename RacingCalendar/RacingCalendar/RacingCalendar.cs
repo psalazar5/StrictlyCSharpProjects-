@@ -15,9 +15,18 @@ namespace RacingCalendar
             Races = new List<Race>(); //initializing the list of races
         }
         //Method to add a race to the calendar 
-        public void AddRace(string name, DateTime date, string trackName)
+        public void AddRace(string name, DateTime date, string trackName, Driver driver = null)
         {
-            Race race = new Race(name, date, trackName);
+            //Race race = new Race(name, date, trackName, driver);
+            //Races.Add(race);
+            Race race = new Race
+            {
+                Name = name,
+                Date = date,
+                TrackName = trackName,
+                driver = driver
+            };
+
             Races.Add(race);
         }
         //Method to print all races to the console 
@@ -25,9 +34,9 @@ namespace RacingCalendar
         {
             foreach(var race in Races)
             {
-                Console.WriteLine(race);
+                Console.WriteLine(race.ToString());
+                //race.DisplayDriverDetails(); // Call the method to display driver details for each race
             }
-
         }
     }
 }
