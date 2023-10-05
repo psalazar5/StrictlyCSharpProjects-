@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using RacingCalendar.Models;
 
 namespace RacingCalendar
 {
@@ -32,7 +33,7 @@ namespace RacingCalendar
         //Method to print all races to the console 
         public void PrintRaces()
         {
-            foreach(var race in Races)
+            foreach (var race in Races)
             {
                 Console.WriteLine(race.ToString());
                 //race.DisplayDriverDetails(); // Call the method to display driver details for each race

@@ -1,4 +1,6 @@
-﻿namespace RacingCalendar
+﻿using RacingCalendar.Models;
+
+namespace RacingCalendar
 {
     class Program
     {

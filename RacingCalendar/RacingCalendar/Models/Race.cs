@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RacingCalendar
+namespace RacingCalendar.Models
 {
     public class Race
     { //name of the race, date of race and name of track 
@@ -13,8 +13,19 @@ namespace RacingCalendar
         public string TrackName { get; set; }
         public Driver driver { get; set; }
 
-        //Collection to store drivers on waiting list (1)
-        private Queue<Driver> waitingList; 
+
+
+        public Race(string name, DateTime date, string trackName)
+        {
+            Name = name;
+            Date = date;
+            TrackName = trackName;
+        }
+
+
+
+        //Collection to store drivers on waiting list: (1)
+        private Queue<Driver> waitingList;
 
 
         //Keeping track of drivers inside the race: (2)
@@ -33,6 +44,20 @@ namespace RacingCalendar
             Console.WriteLine($"{driver.Name} added to the waiting list for {TrackName}. ");
         }
 
+        public void DisplayWaitingList()
+        {
+            if (waitingList.Count > 0)
+            {
+                Driver nextdriver = waitingList.Peek();
+                Console.WriteLine($"Next driver in waiting list: {nextdriver.Name}");
+            }
+            else
+            {
+                Console.WriteLine("Waiting list is empty.");
+            }
+        }
+
+
 
         //(2)
         //Method to add driver to the race 
@@ -47,22 +72,13 @@ namespace RacingCalendar
         }
 
 
-        public Race(string name, DateTime date, string trackName)
-        {
-            Name = name;
-            Date = date;
-            TrackName = trackName;
-        }
-
-
-
         public void DisplayDriverDetails()
         {
             Console.WriteLine($"Race Details : Race Name - {Name}, Date: {Date.ToShortDateString()}, Track: {TrackName}");
-            int raceNumber = 1; 
-            foreach(var driver in drivers)
+            int raceNumber = 1;
+            foreach (var driver in drivers)
             {
-                Console.WriteLine($"Race {raceNumber} Driver Details: " );
+                Console.WriteLine($"Race {raceNumber} Driver Details: ");
                 Console.WriteLine($"    Driver Name : {driver.Name}");
                 Console.WriteLine($"    Race Time: {Date.ToShortDateString()}");
                 Console.WriteLine($"    Track Name: {TrackName}");
@@ -71,7 +87,6 @@ namespace RacingCalendar
             }
 
         }
-
 
 
         //override method to include racing info
