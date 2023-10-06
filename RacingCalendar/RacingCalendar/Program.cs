@@ -1,4 +1,5 @@
-﻿using RacingCalendar.Models;
+﻿using RacingCalendar.Extensions;
+using RacingCalendar.Models;
 
 namespace RacingCalendar
 {
@@ -9,7 +10,6 @@ namespace RacingCalendar
             //creating racing calendar 
             RacingCalendar calendar = new RacingCalendar();
           
-
             //intializing races 
             Race race1 = new Race { Name = "Race 1", Date = DateTime.Parse("2003-10-25"), TrackName = "Track A" };
             Race race2 = new Race { Name = "Race 2", Date = DateTime.Parse("2003-10-27"), TrackName = "Track B" };
@@ -19,6 +19,14 @@ namespace RacingCalendar
             Driver driver1 = new Driver("Jon");
             Driver driver2 = new Driver("Patrick");
             Driver driver3 = new Driver("Jean");
+
+            RacingCalendar calendar1 = new RacingCalendar
+            {
+                Name = "Race 1",
+                Date = new DateTime(2003, 10, 25),
+                TrackName = "Track A",
+                driver = driver1,
+            };
 
             //Adding races to the calendar 
             calendar.AddRace("Race 1", new DateTime(2003, 10, 25), "Track A", driver1);
@@ -41,6 +49,8 @@ namespace RacingCalendar
             //race1.AddDriverToWaitingList(driver1);
             //race2.AddDriverToWaitingList(driver2);
             //race3.AddDriverToWaitingList(driver3);
+
+            Console.WriteLine(calendar1.FormatRacingDetails());
         }
     }
 }

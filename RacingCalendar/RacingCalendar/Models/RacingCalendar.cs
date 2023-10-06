@@ -9,12 +9,20 @@ namespace RacingCalendar
 {
     public class RacingCalendar
     {
+        public string Name { get; set; }
+        public DateTime Date { get; set; }
+        public string TrackName { get; set; }
+        public Driver driver { get; set; }
+
         //Use List<Race> to store races 
         public List<Race> Races { get; private set; } //collection to store races 
+
         public RacingCalendar()
         {
             Races = new List<Race>(); //initializing the list of races
         }
+
+
         //Method to add a race to the calendar 
         public void AddRace(string name, DateTime date, string trackName, Driver driver = null)
         {
@@ -30,6 +38,8 @@ namespace RacingCalendar
 
             Races.Add(race);
         }
+
+
         //Method to print all races to the console 
         public void PrintRaces()
         {
@@ -39,5 +49,7 @@ namespace RacingCalendar
                 //race.DisplayDriverDetails(); // Call the method to display driver details for each race
             }
         }
+
+
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RacingCalendar.Models
 {
-    public class Race
+    public partial class Race
     { //name of the race, date of race and name of track 
         public string Name { get; set; }
         public DateTime Date { get; set; }
@@ -15,13 +15,13 @@ namespace RacingCalendar.Models
 
 
 
-        public Race(string name, DateTime date, string trackName)
+        public Race(string name, DateTime date, string trackName, Driver driver )
         {
             Name = name;
             Date = date;
             TrackName = trackName;
+            driver = driver;
         }
-
 
 
         //Collection to store drivers on waiting list: (1)
@@ -95,5 +95,6 @@ namespace RacingCalendar.Models
             //string driversInfo = string.Join(", ", drivers.Select(driver => driver.Name));
             return $"Race: {Name}, Date: {Date.ToShortDateString()}, Track: {TrackName}, Drivers: {driver.Name}";
         }
+
     }
 }
